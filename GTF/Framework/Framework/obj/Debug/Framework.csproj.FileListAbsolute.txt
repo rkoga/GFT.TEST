@@ -1,0 +1,6 @@
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\bin\Debug\Framework.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\bin\Debug\Framework.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\obj\Debug\Framework.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\bin\Debug\log4net.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework\bin\Debug\log4net.xml

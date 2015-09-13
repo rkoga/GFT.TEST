@@ -1,0 +1,7 @@
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\bin\Release\Framework.Library.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\bin\Release\Framework.Library.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\obj\Release\Framework.Library.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\obj\Release\Framework.Library.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\obj\Release\Framework.Cache.csprojResolveAssemblyReference.cache
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\bin\Release\log4net.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Framework\Framework.Library\bin\Release\log4net.xml

@@ -1,0 +1,14 @@
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\ConsoleApplication1.exe.config
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\ConsoleApplication1.exe
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\ConsoleApplication1.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\Framework.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\GTF.Business.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\Framework.Library.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\Framework.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\GTF.Business.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\Framework.Library.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\obj\Release\GFT.csprojResolveAssemblyReference.cache
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\obj\Release\ConsoleApplication1.exe
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\obj\Release\ConsoleApplication1.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\log4net.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\Console\bin\Release\log4net.xml

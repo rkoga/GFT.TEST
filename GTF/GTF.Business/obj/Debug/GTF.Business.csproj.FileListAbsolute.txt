@@ -1,0 +1,9 @@
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\GTF.Business.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\GTF.Business.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\Framework.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\Framework.Library.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\Framework.Library.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\bin\Debug\Framework.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\obj\Debug\GTF.Business.csprojResolveAssemblyReference.cache
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\obj\Debug\GTF.Business.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GTF.Business\obj\Debug\GTF.Business.pdb

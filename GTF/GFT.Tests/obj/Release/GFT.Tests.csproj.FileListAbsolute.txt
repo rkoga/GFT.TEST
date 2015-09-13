@@ -1,0 +1,13 @@
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\GFT.Tests.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\GFT.Tests.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\Framework.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\Framework.Library.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\GTF.Business.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\Framework.Library.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\Framework.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\GTF.Business.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\obj\Release\GFT.Tests.csprojResolveAssemblyReference.cache
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\obj\Release\GFT.Tests.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\obj\Release\GFT.Tests.pdb
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\log4net.dll
+C:\Users\CRASHBURN\Documents\Visual Studio 2012\Projects\GTF\GFT.Tests\bin\Release\log4net.xml
